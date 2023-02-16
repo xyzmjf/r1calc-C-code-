@@ -31,16 +31,26 @@ Program r1calc
 	after the optimisation parameter final values. 
 
 	Example input data - 6 data points
+	
 	0 	-10
+	
 	1 	-5
+	
 	2 	0
+	
 	3 	3
+	
 	5 	4
+	
 	10 	-10
+	
 
 	Example for initial parameter estimates
+	
 	x or peak area at zero time = -10
+	
 	y or peak area at long time = 10
+	
 	relaxation rate r1 = 0.5
 	
 
